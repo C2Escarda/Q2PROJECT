@@ -1,0 +1,117 @@
+.navbarss{
+	background: #8a6851
+}
+.Breakfast{
+	font-family: sans-serif;
+}
+.Breakfastmenu{
+	display: flex;
+	justify-content: center;
+
+}
+.Breakname{
+	text-align: center;
+	padding-top: 60px;
+}
+.BFood{
+	padding: 5px;
+	transition: 0.3s;
+	text-align: center;
+}
+.BFood:hover{
+	transform:scale(1.05);
+	z-index: 2;
+	transition: 0.1s;
+}
+.Lunch{
+	font-family: sans-serif;
+}
+.Lunchmenu{
+	display: flex;
+	justify-content: center;
+
+}
+.Lunchname{
+	text-align: center;
+	padding-top: 60px;
+}
+.LFood{
+	padding: 5px;
+	transition: 0.3s;
+	text-align: center;
+}
+.LFood:hover{
+	transform:scale(1.05);
+	z-index: 2;
+	transition: 0.1s;
+}
+.AdrianGavina{
+	padding-top: 60px;
+	text-align: center;
+	justify-content: center;
+}
+.naglulutos{
+	padding: 10px;
+	transition: 0.3s;
+}
+.nagdadamits{
+	padding: 10px;
+	transition: 0.3s;	
+}
+.naglulutos:hover{
+	padding: 10px;
+	transition: 0.3s;
+	transform:scale(1.05);
+	z-index: 2;
+
+}
+.nagdadamits:hover{
+	padding: 10px;
+	transition: 0.3s;	
+	transform:scale(1.05);
+	z-index: 2;
+}
+.imageofindex{
+	justify-content: center;
+	display: flex;
+}
+		.button2{
+			background-color: #8a6851; border-radius: 25px;
+			color: #dbd1bc; cursor: pointer; border: transparent;
+			transition: 0.3s;
+		}
+		.button2:hover{
+			color: #8a6851; background-color: #dbd1bc;
+			transition: 0.1s;
+}
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.introduction{
+	justify-content: center;
+	text-align: center;
+}
+.checkmark{
+	justify-content: center;
+	display: flex;
+}
